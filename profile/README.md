@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://use-charter.dev">
-    <img src="https://use-charter.dev/og.png" alt="Charter — AI-agent readiness, scored." width="600">
+    <img src="https://use-charter.dev/charter-cover.png" alt="Charter — AI-agent readiness, scored." width="820">
   </a>
 </p>
 
